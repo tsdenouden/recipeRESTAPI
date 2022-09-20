@@ -7,7 +7,7 @@ import uvicorn
 
 # Swagger Docs
 description = """
-![Drink svg](api/assets/drink@3x.png)
+![Drink svg](https://raw.githubusercontent.com/tsdenouden/recipeRESTAPI/main/api/assets/drink%403x.png)
 Helps you keep track of your recipes.
 
 ### Recipes
