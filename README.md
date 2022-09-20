@@ -11,7 +11,7 @@ pictures & extra descriptions.
 > - URL to an image of the food
 > - Calorie count  
 >
-> #### And, some extra info:
+> #### And, some extra optional info:
 > > * Credits to authors 
 > > * Short description of the recipe 
 > > * Estimated time 
