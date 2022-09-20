@@ -1,8 +1,7 @@
 # ![Drink svg](https://raw.githubusercontent.com/tsdenouden/recipeRESTAPI/main/assets/drink%403x.png) Recipe REST API (fastapi)
+**This is a mini project to learn how to build simple REST APIs.**
 
 This Recipes API helps you save the recipes of your favourite dishes.
-
-**Mini project to learn how to build simple REST APIs.**
 
 **Each recipe consists of a:**
 * Universally unique identifier (UUID4)
@@ -21,6 +20,7 @@ What I learnt & used:
 * fastapi
 * RESTful API guidelines
 * HTTP status codes
+* exception handling
 * Testing API Endpoints with Postman & SwaggerUI
 * Docker
 
