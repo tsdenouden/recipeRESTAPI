@@ -22,7 +22,7 @@ pictures & extra descriptions.
 > - pydantic
 > - RESTful API guidelines 
 > - API Endpoints & status codes
-> - exception handling 
+> - Raising HTTP exceptions 
 > - Async Await
 > - Testing API Endpoints with Postman & SwaggerUI 
 > - Docker
