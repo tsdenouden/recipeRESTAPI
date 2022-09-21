@@ -8,4 +8,4 @@ RUN pip install -r requirements.txt
 
 COPY ./api ./api
 
-CMD["python", "./api/main.py"]
+CMD ["python", "./api/main.py"]
