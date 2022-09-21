@@ -19,9 +19,11 @@ pictures & extra descriptions.
 
 #### What I learnt & used:
 > - fastapi 
+> - pydantic
 > - RESTful API guidelines 
 > - API Endpoints & status codes
 > - exception handling 
+> - Async Await
 > - Testing API Endpoints with Postman & SwaggerUI 
 > - Docker
 
